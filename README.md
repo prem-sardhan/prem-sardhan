@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Fullstack Web Developer</h3>
 
 
-<img  alt="Coding" width="400" src="https://ca.slack-edge.com/T039D3USF2Q-U03EH4PUPGA-3f4625bae7d9-512">
+<img  alt="Coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
 
 
