@@ -117,12 +117,12 @@
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/ShravaniMishra/github-readme-stats"><img alt="ShravaniMishra Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniMishra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/prem-sardhan/github-readme-stats"><img alt="prem-sardhan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-sardhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
     <a href="https://github.com/prem-sardhan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShravaniMishra streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-sardhan&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="prem-sardhan" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-sardhan&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>                                                                                                                                              
 
