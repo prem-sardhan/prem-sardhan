@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning Frontend and Backened
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1B47a79Gp7t96cjnJHUMngay2ctTcWSyB/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/15fL9kbWgenC-NUAcpRWnLu_9p6URhF8o/view?usp=share_link)
 
 - 💻 Know more about me [Portfolio](https://prem-sardhan.github.io/)
 
