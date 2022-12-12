@@ -131,14 +131,14 @@
      <p align="center">                                                                                                 
     <a href="https://github.com/prem-sardhan/github-readme-stats"><img alt="prem-sardhan Github Stats" src="https://github-readme-stats.vercel.app/api?username=prem-sardhan&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="prem-sardhan" /></a>
     </p>                                                                 
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
+ 
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/prem-sardhan/github-readme-activity-graph"><img alt="prem-sardhan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prem-sardhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<!-- <a href="https://github.com/prem-sardhan/github-readme-activity-graph"><img alt="prem-sardhan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prem-sardhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+ -->
 <br/>
 <br/>
 
