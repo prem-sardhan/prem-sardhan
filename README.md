@@ -12,7 +12,7 @@
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Prem Sardhan <img src="https://www.freepngimg.com/download/emoji/73728-emoticon-smiley-peace-emojis-laughter-emoji.png" width="32"/></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, Lets COnnect and Wxplore the world.... <img src="https://www.freepngimg.com/download/emoji/73728-emoticon-smiley-peace-emojis-laughter-emoji.png" width="32"/></h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prem-sardhan&label=Profile%20views&color=0e75b6&style=flat" alt="ShravaniMishra" /> </p>
 
