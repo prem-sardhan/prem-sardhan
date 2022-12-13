@@ -1,6 +1,6 @@
-<div align="center">
-  [![MasterHead](https://i.postimg.cc/NfZXN8fJ/github-header-image.png)](https://prem-sardhan.io)
-</div>
+
+  [![MasterHead align="centre"](https://i.postimg.cc/NfZXN8fJ/github-header-image.png)](https://prem-sardhan.io)
+
 
 
 
