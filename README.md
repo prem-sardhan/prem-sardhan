@@ -6,13 +6,13 @@
 
 
 
-<!-- <div align="center">
+<div >
   <img src="https://cdn.dribbble.com/users/452800/screenshots/2423898/media/33fb1b0d2b966f716e99011148941cdd.gif" width="40%"/>
-</div> -->
+</div>
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, Lets COnnect and Wxplore the world.... <img src="https://www.freepngimg.com/download/emoji/73728-emoticon-smiley-peace-emojis-laughter-emoji.png" width="32"/></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, Lets Connect and explore the world.... <img src="https://www.freepngimg.com/download/emoji/73728-emoticon-smiley-peace-emojis-laughter-emoji.png" width="32"/></h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prem-sardhan&label=Profile%20views&color=0e75b6&style=flat" alt="ShravaniMishra" /> </p>
 
