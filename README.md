@@ -28,7 +28,7 @@
 
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -61,7 +61,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/prem-sardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prem-sardhan" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/prem-sardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prem-sardhan" height="30" width="40" /></a> -->
 <a href="https://twitter.com/psardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="psardhan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prem-sardhan-2067bb177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prem-sardhan-2067bb177" height="30" width="40" /></a>
 <a href="https://codesandbox.com/prem-sardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="prem-sardhan" height="30" width="40" /></a>
