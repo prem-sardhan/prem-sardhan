@@ -1,4 +1,4 @@
-[![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)](https://prem-sardhan.io)
+[![MasterHead](https://i.postimg.cc/ncFSFJ4b/octocat-1670959579816.png)](https://prem-sardhan.io)
 
 
 
