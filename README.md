@@ -1,5 +1,5 @@
 
-             [! align="centre"[MasterHead](https://i.postimg.cc/NfZXN8fJ/github-header-image.png)](https://prem-sardhan.io)
+<!--    [! [MasterHead](https://i.postimg.cc/NfZXN8fJ/github-header-image.png)](https://prem-sardhan.io) -->
 
 
 
@@ -7,6 +7,8 @@
 
 
 <div >
+  <img src="https://i.postimg.cc/NfZXN8fJ/github-header-image.png" width="80%"/>
+  
   <img src="https://cdn.dribbble.com/users/452800/screenshots/2423898/media/33fb1b0d2b966f716e99011148941cdd.gif" width="40%"/>
 </div>
 
