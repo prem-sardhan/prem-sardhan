@@ -1,5 +1,5 @@
 
-  [![MasterHead align="centre"](https://i.postimg.cc/NfZXN8fJ/github-header-image.png)](https://prem-sardhan.io)
+             [! align="centre"[MasterHead](https://i.postimg.cc/NfZXN8fJ/github-header-image.png)](https://prem-sardhan.io)
 
 
 
