@@ -6,9 +6,9 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://cdn.dribbble.com/users/452800/screenshots/2423898/media/33fb1b0d2b966f716e99011148941cdd.gif" width="40%"/>
-</div>
+</div> -->
 
 
 
