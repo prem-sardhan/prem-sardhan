@@ -152,6 +152,19 @@
 <br/>
 <br/>
 
+
+
+  <br/>
+  </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhijeetsharma1/"> 
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
 <!-- <a href="https://github.com/prem-sardhan/github-readme-activity-graph"><img alt="prem-sardhan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prem-sardhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  -->
 <br/>
