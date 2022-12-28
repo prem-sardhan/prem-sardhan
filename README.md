@@ -55,17 +55,31 @@
 
 - ⚡ Fun fact Elephants can’t jump
 
-
+_
 <hr />
+<!--  -->CONNECTION____________________________________________________________________________
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
 
+<!--    -->linking
+<a href="https://www.linkedin.com/in/prem-sardhan-2067bb177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prem-sardhan-2067bb177" height="30" width="40" /></a>
+<!--    -->codesandal
+<a href="https://codesandbox.io/u/dibyanshu4430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="prem-sardhan" height="30" width="40" /></a>
+<!--    -->twitter
+  <a href="https://twitter.com/psardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="psardhan" height="30" width="40" /></a>
+
+</p>
+
+
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://dev.to/prem-sardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prem-sardhan" height="30" width="40" /></a> -->
 <a href="https://twitter.com/psardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="psardhan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prem-sardhan-2067bb177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prem-sardhan-2067bb177" height="30" width="40" /></a>
 <a href="https://codesandbox.com/prem-sardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="prem-sardhan" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <br />
 
@@ -157,16 +171,17 @@
   <br/>
   </p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/prem-sardhan-2067bb177/"> 
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
+  <a href="https://www.linkedin.com/in/prem-sardhan-2067bb177/"> 
+  
 </div>
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-<!-- <a href="https://github.com/prem-sardhan/github-readme-activity-graph"><img alt="prem-sardhan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prem-sardhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
- -->
+
+
 <br/>
 <br/>
 
