@@ -127,24 +127,9 @@ _
 
 <h2 align="center">📊 My Github Stats</h2>
 <p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prem-sardhan&theme=solarized_dark">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username==prem-sardhan&theme=solarized_dark">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user==prem-sardhan&" alt="=prem-sardhan" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prem-sardhan&theme=solarized_dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-sardhan&" alt="prem-sardhan" />
 </p>
-<br/>
-<br/>
-
-
-
-  <br/>
-  </p>
-
-
-
-
-<br/>
-<br/>
-
-
 
 
 
