@@ -61,6 +61,13 @@ _
 
 <hr />
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/prem-sardhan-2067bb177?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BySaGtEYCT9a6gs0G4f5lXA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prem-791627168" height="30" width="40" /></a>
+  <a href="https://github.com/prem-sardhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="portfolio" height="30" width="40" /></a>
+
+</p>
+
 
 <h2 align="center">🚀 Languages and Tools:</h2>
 <br/>
@@ -119,26 +126,10 @@ _
 
 
 <h2 align="center">📊 My Github Stats</h2>
-   <br/>   
-    <p align="center">      
-  <a href="https://github.com/prem-sardhan/github-readme-stats"><img alt="prem-sardhan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-sardhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      </p>      
-     <br/>
-      <br/>   
-   <p align="center">
-    <a href="https://github.com/prem-sardhan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="prem-sardhan" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-sardhan&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-    </a>
-</p>                                                                                                                                              
-
-  <br/>
-  <br/>
-     <p align="center">                                                                                                 
-    <a href="https://github.com/prem-sardhan/github-readme-stats"><img alt="prem-sardhan Github Stats" src="https://github-readme-stats.vercel.app/api?username=prem-sardhan&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="prem-sardhan" /></a>
-    </p>                                                                 
- 
-
-
+<p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prem-sardhan&theme=solarized_dark">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username==prem-sardhan&theme=solarized_dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user==prem-sardhan&" alt="=prem-sardhan" />
+</p>
 <br/>
 <br/>
 
